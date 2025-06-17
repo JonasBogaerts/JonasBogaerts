@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, I'm Jonas
 
-<!--
-**JonasBogaerts/JonasBogaerts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **23 y/o Full Stack Developer**  
+Nearly a decade in the game — from C++ and Arduino to building full-stack applications with SOLID design principles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔋 Lifestyle
+- 🏋️‍♂️ Gym & running  
+- ❤️ Creating memories with the people I love most  
+
+---
+
+### 💬 Words I Live By  
+> **"Create cool shit with cool people!"**
+
+---
+
+### 🤝 Let’s Connect  
+Always happy to chat — [**LinkedIn**](https://www.linkedin.com/in/jonas-bogaerts/)
