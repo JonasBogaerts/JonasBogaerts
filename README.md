@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jonas
 
-💻 **23 y/o Full Stack Developer**  
+💻 **24 y/o Full Stack Developer**  
 Nearly a decade in the game — from C++ and Arduino to building full-stack applications with SOLID design principles.
 
 ---
